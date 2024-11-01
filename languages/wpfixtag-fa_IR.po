@@ -1,0 +1,56 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-fixtag\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-06 13:46-0400\n"
+"PO-Revision-Date: 2014-02-15 23:48+0330\n"
+"Last-Translator: M.Shahbazi <mohsenshahbazi@gmail.com>\n"
+"Language-Team: FixTag <wpfixtag@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __();_e()\n"
+"Language: fa_IR\n"
+
+msgid "dashboard_msg_before"
+msgstr "افزونه تگ اتوماتیک . نسخه : "
+
+msgid "dashboard_msg_credit"
+msgstr "تمامی حقوق برای 3eo.ir محفوظ است "
+
+msgid "active_tags"
+msgstr "تگ های فعال"
+
+msgid "plugin_name"
+msgstr "تگ گذاری اتوماتیک"
+
+msgid "autotagging_enable"
+msgstr "آیا تگ بر اساس بیشترین کلمات استفاده شده در متن پست تنظیم شود؟"
+
+msgid "done"
+msgstr "ثبت کن"
+
+msgid "id"
+msgstr "شناسه"
+
+msgid "tag_title"
+msgstr "عنوان تگ"
+
+msgid "categories"
+msgstr "دسته بندی ها"
+
+msgid "operations"
+msgstr "عملیات ها"
+
+msgid "delete"
+msgstr "حذف"
+
+msgid "edit"
+msgstr "ویرایش"
